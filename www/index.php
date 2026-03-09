@@ -4,14 +4,12 @@ require 'database.php';
 
 
 
-require 'header.php';
+require 'head.php';
+
 ?>
-
-
+    <?php include 'navbar.php'; ?>
 <main>
     <div class="container">
-
-
     </div>
 
 </main>
