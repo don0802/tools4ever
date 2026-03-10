@@ -1,0 +1,1 @@
+<?php echo "Er is een fout opgetreden bij het aanmaken van de gebruiker. Probeer het opnieuw."; ?>

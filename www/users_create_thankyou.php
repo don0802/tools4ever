@@ -1,0 +1,1 @@
+<?php echo "Bedankt voor het aanmaken van een account!"; ?>

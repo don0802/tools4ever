@@ -38,5 +38,6 @@ $tools = mysqli_fetch_all($result, MYSQLI_ASSOC);
     <div>
         <h2><?php echo $tool['name']; ?></h2>
         <p><?php echo $tool['brand']; ?></p>
+        <img src="<?php echo $tool['image']; ?>" alt="<?php echo $tool['name']; ?>" style="max-width: 100px;">
     </div>
 <?php endforeach; ?>
